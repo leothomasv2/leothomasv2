@@ -1,16 +1,15 @@
 ## Hi there 👋
+Hello! I'm Leo Thomas, a computer science student with a concentration in artificial intelligence, machine learning, algorithms, and theory.
 
-<!--
-**leothomasv2/leothomasv2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm particularly interested in Full-Stack Engineering and Machine Learning. I want to make an impact by tackling real-world problems and helping build scalable solutions. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a AI Automating tasking system
+- 🌱 I’m currently learning C++
+- 👯 I’m looking to collaborate on ANYTHING!
+- 💬 Ask me about my love for pickleball 
+- 📫 How to reach me: [lmt89@drexel.edu](url) 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I am a big Eagles and Sixers Fan!
+- 🌶️: Islam Makachev is the pound-for-pound goat. Rodri 100% DESERVED the Ballon d'Or this year. 
+
